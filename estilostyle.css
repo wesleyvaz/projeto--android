@@ -168,7 +168,7 @@ div.video > iframe{
     height: 90%;
 }
 aside  {
-    background-color: var(--cor1);
+    background-color: #83C8D7;
     box-shadow: 0px 0px 12px black ;
     border-radius: 10px 10px 2px 2px;
     text-indent: 15px;
